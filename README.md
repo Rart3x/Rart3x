@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<html>
+  <body>
+      <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/kramjatt?1337Badge=off&UM6P=off" alt="kramjatt's 42 stats" /></a>
+  </body>
+</html>
 <!--
 **Rart3x/Rart3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
