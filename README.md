@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ft_transcendence](https://github.com/Rart3x/42-transcendence)
 
-- 🌱 I’m currently learning **python and Data sciences**
+- 🌱 I’m currently learning **Python and Data sciences**
 
 - 📫 How to reach me **keny56360@gmail.com**
 
