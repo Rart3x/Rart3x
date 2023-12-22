@@ -6,7 +6,7 @@
 <h3 align="center">A 42's Web Developper/Data Analyst Student</h3>
 <p align="center" <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/kramjatt?1337Badge=off&UM6P=off" alt="kramjatt's 42 stats" /> </a> </p>
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/Rart3x/42-transcendence) && [DataSciences](https://github.com/Rart3x/DataSciences)
+- 🔭 I’m currently working on [ft_transcendence](https://github.com/Rart3x/42-transcendence) & [DataSciences](https://github.com/Rart3x/DataSciences)
 
 - 🌱 I’m currently learning **Python and Data sciences**
 
