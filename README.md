@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and Data sciences**
 
-- 📫 How to reach me **keny56360@gmail.com**
+- 📫 How to reach me **kramjatt@student.42angouleme.fr**
 
 - ⚡ Fun fact **I LOVE DATABASES**
 
