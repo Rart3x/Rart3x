@@ -6,7 +6,7 @@
   <p align="center" <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/kramjatt?1337Badge=off&UM6P=off" alt="kramjatt's 42 stats" /> </a> </p>
   <p align="center">
     - 🔭 I’m currently working on DataSciences <br>
-    - 🌱 I’m currently learning **Data Engineering** <br>
+    - 🌱 I’m currently learning <b>Data Engineering</b> <br>
     - 📫 How to reach me **kramjatt@student.42angouleme.fr** <br>
     - ⚡ Fun fact **I LOVE DATABASES** <br>
   </p>
