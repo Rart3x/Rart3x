@@ -2,12 +2,12 @@
   <body>
         
   <h1 align="center">Hello there 👋, I'm Rart3x</h1>
-  <h3 align="center">A 42's Data Analyst/Engineer Student</h3>
+  <h3 align="center">A 42's Data Engineer Student</h3>
   <p align="center" <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/kramjatt?1337Badge=off&UM6P=off" alt="kramjatt's 42 stats" /> </a> </p>
   
-  - 🔭 I’m currently working on [DataSciences](https://github.com/Rart3x/DataSciences)
+  - 🔭 I’m currently working on [DataSciences]
   
-  - 🌱 I’m currently learning **Python and Data sciences**
+  - 🌱 I’m currently learning **Data Engineering**
   
   - 📫 How to reach me **kramjatt@student.42angouleme.fr**
   
@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   </p>
   
-  <br><br>
+  <br>
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rart3x" alt="rart3x" /></a> </p>
 
