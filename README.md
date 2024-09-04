@@ -5,7 +5,7 @@
   <h3 align="center">A 42's Data Engineer Student</h3>
   <p align="center" <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/kramjatt?1337Badge=off&UM6P=off" alt="kramjatt's 42 stats" /> </a> </p>
   
-  - 🔭 I’m currently working on [DataSciences]
+  - 🔭 I’m currently working on DataSciences
   
   - 🌱 I’m currently learning **Data Engineering**
   
