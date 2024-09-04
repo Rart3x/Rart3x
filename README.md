@@ -1,5 +1,5 @@
 <html>
-  <body>
+  <body align="center">
         
   <h1 align="center">Hello there 👋, I'm Rart3x</h1>
   <h3 align="center">A 42's Data Engineer Student</h3>
