@@ -4,15 +4,12 @@
   <h1 align="center">Hello there 👋, I'm Rart3x</h1>
   <h3 align="center">A 42's Data Engineer Student</h3>
   <p align="center" <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/kramjatt?1337Badge=off&UM6P=off" alt="kramjatt's 42 stats" /> </a> </p>
-  
-  - 🔭 I’m currently working on DataSciences
-  
-  - 🌱 I’m currently learning **Data Engineering**
-  
-  - 📫 How to reach me **kramjatt@student.42angouleme.fr**
-  
-  - ⚡ Fun fact **I LOVE DATABASES**
-  
+  <p align="center">
+    - 🔭 I’m currently working on DataSciences
+    - 🌱 I’m currently learning **Data Engineering**
+    - 📫 How to reach me **kramjatt@student.42angouleme.fr**
+    - ⚡ Fun fact **I LOVE DATABASES**
+  </p>
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
