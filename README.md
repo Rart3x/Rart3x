@@ -1,9 +1,10 @@
 <html>
   <body>
         
-  <h1 align="center">Hello there 👋, I'm Rart3x</h1>
-  <h3 align="center">A 42's Data Engineer Student</h3>
-  <p align="center" <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/kramjatt?1337Badge=off&UM6P=off" alt="kramjatt's 42 stats" /> </a> </p>
+  <h1 align="center">Hello there 👋, I'm Rart3x a 42's Data Engineer Student</h1>
+  <p align="center">
+    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  </p>
 
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
