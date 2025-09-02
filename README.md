@@ -1,7 +1,7 @@
 <html>
   <body>
         
-  <h1 align="center">Hello there 👋, I'm Rart3x a 42's Data Engineer Student</h1>
+  <h1 align="center">Hello there 👋, I'm Keny a 42's Data Engineer Student</h1>
   <p align="center">
     <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
   </p>
